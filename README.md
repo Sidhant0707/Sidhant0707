@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sidhant0707/Sidhant0707/main/banner.png" alt="Welcome to my profile!"/>
-</p>
 
 ---
 ### Hi there, I'm Sidhant! 👋
