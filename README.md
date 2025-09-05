@@ -20,14 +20,18 @@ I am a passionate Computer Science student from Greater Noida, India, with a str
 
 ### 🤝 Connect with Me
 
+Feel free to connect with me on these platforms:
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/sidhant07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sidhant07" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Sidhant Kumar's LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sidhantkumar0707@gmail.com" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Sidhant Kumar's Email" height="30" width="30" />
   </a>
 </p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Sidhant0707&label=Profile+Views&color=0077B5&style=for-the-badge&link=&cache_bust=1" alt="Sidhant's Profile Views" />
-</p>
+
 ---
 
 <details align="center">
@@ -50,3 +54,9 @@ I am a passionate Computer Science student from Greater Noida, India, with a str
     <img src="https://github-profile-trophy.vercel.app/?username=Sidhant0707&theme=vision-friendly-dark&rank=S,A,B" alt="GitHub Trophies"/>
   </p>
 </details>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Sidhant0707&label=Profile+Views&color=0077B5&style=for-the-badge&link=&cache_bust=1" alt="Sidhant's Profile Views" />
+</p>
