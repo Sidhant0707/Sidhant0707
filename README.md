@@ -4,31 +4,47 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=bold&size=35&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=600&lines=HELLO%2C+I'M+SIDHANT%21;A+SOFTWARE+DEVELOPER.;A+PROBLEM+SOLVER.;AND+A+TECH+ENTHUSIAST." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=bold&size=35&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=600&lines=HELLO%2C+I'M+SIDHANT%21;A+SOFTWARE+DEVELOPER.;A+PROBLEM+SOLVER.;AND+A+TECH+ENTHUSIAST." alt="Typing SVG" />
   </a>
 </p>
 
-I'm a passionate Computer Science student from Greater Noida, India. My journey into the world of tech is driven by a deep curiosity for problem-solving and a love for building efficient, clean code. I'm currently focused on mastering Data Structures & Algorithms and exploring the vast possibilities of software development.
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on sharpening my competitive programming skills.
-- 🌱 I’m currently learning about web development and cloud technologies.
-- 📫 You can reach me here: **[LinkedIn](https://www.linkedin.com/in/sidhant07)**
+I am a passionate Computer Science student from Greater Noida, India, with a strong focus on **Data Structures, Algorithms, and competitive programming**. My goal is to leverage my problem-solving skills to build efficient and scalable software solutions. I am constantly exploring new technologies and seeking to enhance my abilities in the ever-evolving landscape of tech.
+
+- 🔭 Currently sharpening my skills for upcoming coding challenges and hackathons.
+- 🌱 Exploring the fundamentals of web development and cloud infrastructure.
+- 💬 Ask me anything about **C++, Python, and algorithmic problem-solving**.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,github" />
+  <a href="https://www.linkedin.com/in/sidhant07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-### 📊 My GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Sidhant's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Sidhant0707&theme=vision-friendly-dark" alt="GitHub Streak"/>
+<details align="center">
+  <summary><b>🛠️ My Tech Stack</b></summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sidhant0707&theme=vision-friendly-dark&rank=S,A,B,C" alt="GitHub Trophies"/>
-</p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cpp,python,git,vscode,github" />
+    </a>
+  </p>
+</details>
+
+<details align="center">
+  <summary><b>📊 My GitHub Stats & Trophies</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Sidhant's GitHub Stats"/>
+    <img src="https://streak-stats.demolab.com/?user=Sidhant0707&theme=vision-friendly-dark" alt="GitHub Streak"/>
+    <br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sidhant0707&theme=vision-friendly-dark&rank=S,A,B" alt="GitHub Trophies"/>
+  </p>
+</details>
