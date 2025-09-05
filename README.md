@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate Computer Science student from Greater Noida, India, with a strong focus on **Data Structures, Algorithms, and competitive programming**. My goal is to leverage my problem-solving skills to build efficient and scalable software solutions. I am constantly exploring new technologies and seeking to enhance my abilities in the ever-evolving landscape of tech.
+I am a passionate Computer Science student at GL Bajaj Institute of Technology & Management, with a strong focus on **Data Structures, Algorithms, and software development fundamentals**. My goal is to leverage my problem-solving skills to build efficient and scalable software solutions. I am constantly exploring new technologies and seeking to enhance my abilities in the ever-evolving landscape of tech.
 
 - 🔭 Currently sharpening my skills for upcoming coding challenges and hackathons.
 - 🌱 Exploring the fundamentals of web development and cloud infrastructure.
-- 💬 Ask me anything about **C++, Python, and algorithmic problem-solving**.
+- 💬 Ask me anything about **C, C++, Python, and algorithmic problem-solving**.
 
 ---
 
