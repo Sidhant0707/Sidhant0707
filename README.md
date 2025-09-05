@@ -25,7 +25,9 @@ I am a passionate Computer Science student from Greater Noida, India, with a str
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Sidhant0707&label=Profile+Views&color=0077B5&style=for-the-badge&link=&cache_bust=1" alt="Sidhant's Profile Views" />
+</p>
 ---
 
 <details align="center">
