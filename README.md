@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Sidhant0707/Sidhant0707/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
 
-### Hi there, I'm Sidhant 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sidhant...;A+Software+Developer...;A+Problem+Solver...;And+a+Lifelong+Learner!" alt="Typing SVG" /></a>
 
 I'm a passionate Computer Science student from Greater Noida, India. My journey into the world of tech is driven by a deep curiosity for problem-solving and a love for building efficient, clean code. I'm currently focused on mastering Data Structures & Algorithms and exploring the vast possibilities of software development.
 
