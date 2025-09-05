@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sidhant0707/Sidhant0707/main/banner.png" alt="Welcome to my profile!"/>
+</p>
+
+---
 ### Hi there, I'm Sidhant! 👋
 
 I'm a Computer Science student from India, currently focused on mastering Data Structures and Algorithms. I'm passionate about competitive programming and building efficient software solutions.
