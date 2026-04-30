@@ -10,45 +10,60 @@
 
 ---
 
-## 🧬 System Identity (C++ Representation)
+## 🧬 System Identity
 
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
 class SidhantKumar {
-private:
-    const string role = "Software Engineer";
-    const string focus = "Scalable Systems + Problem Solving";
-    bool alive = true;
-
+    string role = "Software Engineer";
+    string focus = "Scalable Systems";
+    
 public:
-    vector<string> stack = {
-        "C++", "TypeScript", "Next.js", "Supabase", "LLMs"
-    };
-
-    void solve() {
-        cout << "Solving complex problems...\n";
-    }
-
-    void build() {
-        cout << "Building scalable systems...\n";
-    }
-
-    void iterate() {
-        cout << "Improving architecture...\n";
-    }
-
     void run() {
-        while(alive) {
+        while(true) {
             solve();
             build();
-            iterate();
         }
     }
 };
+```
 
-int main() {
-    SidhantKumar dev;
-    dev.run();
-}
+---
+
+## 🟢 Live Status
+
+```
+Status  : ONLINE
+Focus   : DSA + Full Stack
+Mode    : BUILDING ⚡
+```
+
+---
+
+## 🚀 Projects
+
+* **[OfferVault](https://github.com/Sidhant0707/offervault)** → Placement data transparency
+* **[CodeAutopsy](https://github.com/Sidhant0707/codeautopsy)** → AI debugging system
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,tailwind,git" />
+</p>
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=dark" />
+</p>
+
+---
+
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/sidhant07">LinkedIn</a>
+</p>
