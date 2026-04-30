@@ -1,69 +1,106 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sidhant0707/Sidhant0707/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Sidhant0707/Sidhant0707/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 </p>
-
-<h1 align="center">⚡ SYSTEM INITIALIZING...</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&pause=800&duration=2000&color=FFD700&center=true&vCenter=true&width=600&lines=SIDHANT+KUMAR;SYSTEMS+%7C+DSA+%7C+FULL+STACK;BUILD.+BREAK.+REBUILD." />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=32&pause=500&duration=2000&color=FFD700&center=true&vCenter=true&width=550&lines=SIDHANT+KUMAR;SOFTWARE+ENGINEER;BUILDING+SCALABLE+SYSTEMS;DSA+%7C+FULL+STACK" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-## 🧬 System Identity
+### 👨‍💻 The Grind
 
-```cpp
-class SidhantKumar {
-    string role = "Software Engineer";
-    string focus = "Scalable Systems";
-    
-public:
-    void run() {
-        while(true) {
-            solve();
-            build();
-        }
-    }
-};
-```
+I build scalable full-stack systems and solve complex problems using **C++ and modern web technologies**.
+
+* 🔭 Engineering full-stack platforms while mastering **Data Structures & Algorithms in C++**
+* 🌱 Working with **Next.js, TypeScript, and Serverless architectures**
+* ⚡ Building real-world systems: AI debugging tools & data-driven platforms
+* 💬 Ask me about **C++, Next.js, LLM Integration, or System Design**
 
 ---
 
-## 🟢 Live Status
+### 🚀 Flagship Projects
 
-```
-Status  : ONLINE
-Focus   : DSA + Full Stack
-Mode    : BUILDING ⚡
-```
+* **[CodeAutopsy](https://github.com/Sidhant0707/codeautopsy)**
+  → AI-powered debugging engine that maps codebase dependencies and diagnoses complex stack traces using LLMs
 
----
-
-## 🚀 Projects
-
-* **[OfferVault](https://github.com/Sidhant0707/offervault)** → Placement data transparency
-* **[CodeAutopsy](https://github.com/Sidhant0707/codeautopsy)** → AI debugging system
+* **[OfferVault](https://github.com/Sidhant0707/offervault)**
+  → Peer-to-peer placement registry bringing transparency to real CTC data
 
 ---
 
-## 🛠️ Tech Stack
+### 🛰️ Currently Building
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,ts,js,react,nextjs,tailwind,git" />
+* 🧠 Advancing **CodeAutopsy’s** debugging intelligence & architecture
+* ⚡ Scaling **OfferVault** for real-world usage
+* 📈 Practicing **Graphs, DP & System Design**
+
+---
+
+### 🌐 Portfolio
+
+* 🔗 **https://sidcore.in/**
+  → Showcasing projects, work, and technical journey
+
+---
+
+### 🛠️ Tech Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,supabase,tailwind,vercel,git,github,vscode" alt="My Tech Stack"/>
 </p>
 
 ---
 
-## 📈 Stats
+### ⏱️ Coding Activity (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sidhant&theme=vision-friendly-dark"/>
 </p>
 
 ---
 
-## 🤝 Connect
+### 📈 Battle Stats
 
-<p>
-  <a href="https://www.linkedin.com/in/sidhant07">LinkedIn</a>
+<p align="center">
+  <a href="https://github.com/Sidhant0707">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidhant0707&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Activity Graph"/>
+  </a>
+</p>
+
+<details align="left">
+  <summary><b>🔥 View Deep Stats & DSA Ranks</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=vision-friendly-dark&rank_icon=github"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant0707&layout=compact&theme=vision-friendly-dark"/>
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Sidhant0707&theme=vision-friendly-dark"/>
+    <img src="https://leetcard.jacoblin.cool/Sidhant_07?theme=dark&font=Syne&ext=activity"/>
+  </p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sidhant0707&theme=vision-friendly-dark&rank=S,A,B"/>
+  </p>
+</details>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sidhant07" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sidhantkumar0707@gmail.com" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
+</p>
+
+<br/>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Sidhant0707&label=Profile+Views&color=0077B5&style=flat-square"/>
 </p>
