@@ -24,40 +24,32 @@ I build scalable full-stack systems and solve complex problems using **C++ and m
 ### 🚀 Flagship Projects
 
 * **[CodeAutopsy](https://github.com/Sidhant0707/codeautopsy)**
-  → AI-powered debugging engine that maps codebase dependencies and diagnoses complex stack traces using LLMs
+  → AI-powered debugging engine that maps codebase dependencies and diagnoses complex stack traces using Groq & Gemini LLMs
 
 * **[OfferVault](https://github.com/Sidhant0707/offervault)**
-  → Peer-to-peer placement registry bringing transparency to real CTC data
+  → Peer-to-peer placement registry bringing transparency to real, verified CTC data for students
 
 ---
 
 ### 🛰️ Currently Building
 
-* 🧠 Advancing **CodeAutopsy’s** debugging intelligence & architecture
-* ⚡ Scaling **OfferVault** for real-world usage
-* 📈 Practicing **Graphs, DP & System Design**
+* 🧠 Advancing **CodeAutopsy’s** debugging intelligence & context-aware analysis
+* ⚡ Scaling **OfferVault** for real-world peer submission usage
+* 📈 Practicing **Graphs, Dynamic Programming, and System Design**
 
 ---
 
 ### 🌐 Portfolio
 
 * 🔗 **https://sidcore.in/**
-  → Showcasing projects, work, and technical journey
+  → Showcasing projects, technical deep-dives, and my development journey
 
 ---
 
 ### 🛠️ Tech Arsenal
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,supabase,tailwind,vercel,git,github,vscode" alt="My Tech Stack"/>
-</p>
-
----
-
-### ⏱️ Coding Activity (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sidhant&theme=vision-friendly-dark"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,react,nextjs,supabase,tailwind,vercel,git,github,vscode,linux" alt="My Tech Stack"/>
 </p>
 
 ---
@@ -71,19 +63,27 @@ I build scalable full-stack systems and solve complex problems using **C++ and m
 </p>
 
 <details align="left">
-  <summary><b>🔥 View Deep Stats & DSA Ranks</b></summary>
+  <summary><b>🔥 View Deep Stats, DSA Ranks & Time Logs</b></summary>
   <br/>
+
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=vision-friendly-dark&rank_icon=github"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant0707&layout=compact&theme=vision-friendly-dark"/>
   </p>
+
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=Sidhant0707&theme=vision-friendly-dark"/>
     <img src="https://leetcard.jacoblin.cool/Sidhant_07?theme=dark&font=Syne&ext=activity"/>
   </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sidhant&layout=compact&theme=vision-friendly-dark"/>
+  </p>
+
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sidhant0707&theme=vision-friendly-dark&rank=S,A,B"/>
   </p>
+
 </details>
 
 ---
@@ -101,6 +101,7 @@ I build scalable full-stack systems and solve complex problems using **C++ and m
 </p>
 
 <br/>
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Sidhant0707&label=Profile+Views&color=0077B5&style=flat-square"/>
 </p>
