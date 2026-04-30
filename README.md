@@ -4,29 +4,29 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=32&pause=500&duration=2000&color=FFD700&center=true&vCenter=true&width=550&lines=HELLO%2C+I'M+SIDHANT%21;ASPIRING+SOFTWARE+ENGINEER;BUILDING+SCALABLE+SYSTEMS;DSA+%2B+FULL+STACK+DEV" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?size=32&pause=500&duration=2000&color=FFD700&center=true&vCenter=true&width=550&lines=HELLO%2C+I'M+SIDHANT%21;ASPIRING+SOFTWARE+ENGINEER;BUILDING+SCALABLE+SYSTEMS;CRUSHING+DSA+%26+FULL+STACK" alt="Typing SVG" />
   </a>
 </p>
 
-### 👨‍💻 About Me
+### 👨‍💻 The Grind
 
-I am a B.Tech Computer Science (Data Science) student at GL Bajaj Institute of Technology & Management, and an aspiring **Software Development Engineer (SDE)**. I love bridging the gap between low-level algorithmic problem-solving and building high-performance, modern web applications. 
+I am a B.Tech Computer Science (Data Science) student at GL Bajaj Institute of Technology & Management, and an aspiring **Software Development Engineer (SDE)**. I build high-performance web applications and grind complex algorithms.
 
-- 🔭 Currently mastering **Data Structures & Algorithms in C++** while engineering full-stack platforms.
-- 🌱 Deep diving into **Next.js 15 (App Router), TypeScript, and Serverless architectures**.
-- ⚡ Building tools that solve real problems—from AI-powered debugging engines to peer-to-peer data registries.
-- 💬 Ask me about **C++, Next.js, integrating LLMs (like Groq/Gemini), or Supabase**.
+- 🔭 Engineering full-stack platforms while mastering **Data Structures & Algorithms in C++**.
+- 🌱 Deep diving into **Next.js 15, TypeScript, and Serverless architectures**.
+- ⚡ Building real-world solutions: from AI debugging engines to peer-to-peer data registries.
+- 💬 Ask me about **C++, Next.js, LLM Integration, or System Architecture**.
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Flagship Projects
 
 - **[OfferVault](https://github.com/Sidhant0707/offervault)** — A peer-to-peer placement registry that cuts through the noise of inflated college brochures to bring real, verified CTC data to students.
 - **[CodeAutopsy](https://github.com/Sidhant0707/codeautopsy)** — An AI-powered repository analysis tool featuring **Code Doctor**, a specialized debugging engine that maps codebase dependencies and diagnoses complex stack traces using LLMs.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Arsenal
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -36,14 +36,26 @@ I am a B.Tech Computer Science (Data Science) student at GL Bajaj Institute of T
 
 ---
 
+### 📈 Battle Stats
+
+<p align="center">
+  <a href="https://github.com/Sidhant0707">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Sidhant0707&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Activity Graph"/>
+  </a>
+</p>
+
 <details align="left">
-  <summary><b>📊 GitHub Stats & Trophies</b></summary>
+  <summary><b>🔥 View Deep Stats & DSA Ranks</b></summary>
   <br/>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Sidhant's GitHub Stats"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sidhant0707&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhant0707&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  </p>
+  <p align="center">
     <img src="https://streak-stats.demolab.com/?user=Sidhant0707&theme=vision-friendly-dark" alt="GitHub Streak"/>
-    <br/>
-    <br/>
+    <img src="https://leetcard.jacoblin.cool/Sidhant_07?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  </p>
+  <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Sidhant0707&theme=vision-friendly-dark&rank=S,A,B" alt="GitHub Trophies"/>
   </p>
 </details>
