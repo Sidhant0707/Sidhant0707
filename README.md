@@ -40,7 +40,7 @@ I am a B.Tech Computer Science (Data Science) student at GL Bajaj Institute of T
 
 <p align="center">
   <a href="https://github.com/Sidhant0707">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sidhant0707&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidhant0707&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Sidhant's GitHub Activity Graph"/>
   </a>
 </p>
 
